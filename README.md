@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Soru Kaşifi](https://play.google.com/store/apps/details?id=com.BlackSea.YKSQuiz)
 
-- 🌱 I’m currently learning **Oracle Sql**
+- 🌱 I’m currently learning **Unreal Engine**
 
 - 📫 How to reach me **ahmetnailarslan0@gmail.com**
 
