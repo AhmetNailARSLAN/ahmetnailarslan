@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmet Nail Arslan</h1>
 <h3 align="center">Game Artist, Unity Developer, MIS Student</h3>
 
-- 🔭 I’m currently working on [Soru Kaşifi](https://play.google.com/store/apps/details?id=com.BlackSea.YKSQuiz)
+- 🔭 I’m currently working on Wizard’s Academy Simulator
 
 - 🌱 I’m currently learning **Unreal Engine**
 
