@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmet Nail Arslan</h1>
-<h3 align="center">Game Artist, Unity Developer, MIS Student</h3>
+<h3 align="center">Unity Developer</h3>
 
-- 🔭 I’m currently working on Wizard’s Academy Simulator
-
+- 🔭 I’m currently working on **Sneak Kicks Underground Workshop Simulator**
 - 🌱 I’m currently learning **Unreal Engine**
 
 - 📫 How to reach me **ahmetnailarslan0@gmail.com**
